@@ -1,4 +1,4 @@
-module toggle
+module github.com/hopefulTex/toggle
 
 go 1.19
 
